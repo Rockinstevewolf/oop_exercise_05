@@ -1,4 +1,4 @@
-# oop_exercize_0*
+# oop_exercize_05
 ### there could be a description
 
 ## in bash:
