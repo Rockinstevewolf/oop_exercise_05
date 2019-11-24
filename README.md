@@ -4,7 +4,7 @@
 ## in bash:
 - "cmake cmakelists.txt"
 - "make"
-- "./exercise" to start the programm
+- "./exercise" to start the programm or "./exercise < test_01.txt", "./exercise < test_02.txt"
 
 ## more info (RUS):
 - report.docx
