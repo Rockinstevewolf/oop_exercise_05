@@ -157,7 +157,7 @@ bool operator == (std::pair<double, double> lhs, std::pair<double, double> rhs)
 template <class T>
 std::istream& operator >> (std::istream& is, Figure<T>& fig)
 {
-    cout << "Input point coordinates in strict order\nA: ";
+    cout << "Input point coordinates in strict order (Amount: 4 in type x y)\nA: ";
     is >> fig.p[0].first >> fig.p[0].second;
     cout << "B: ";
     is >> fig.p[1].first >> fig.p[1].second;
