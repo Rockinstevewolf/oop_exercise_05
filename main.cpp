@@ -79,7 +79,7 @@ void print_menu(){
 
 int main()
 {
-	Stack< Figure<double> > fig_stack;
+	Stack< Figure<double>> fig_stack;
 	Figure<double> buff;
 	int k = 1;
 	size_t num;
